@@ -1,6 +1,6 @@
 /**
  * Owl Carousel v2.0.0-beta-SNAPSHOT
- * Copyright 2013-2015 Smashing Boxes
+ * Copyright 2013-2016 Smashing Boxes
  * Licensed under MIT (https://github.com/smashingboxes/OwlCarousel2/blob/master/LICENSE)
  */
 /*
@@ -46,6 +46,5 @@
       -webkit-backface-visibility: visible;
       transition: opacity 200ms ease;
       border-radius: 30px; }
-    .owl-theme .owl-dots .owl-dot.active span,
-    .owl-theme .owl-dots .owl-dot:hover span {
+    .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
       background: #869791; }
